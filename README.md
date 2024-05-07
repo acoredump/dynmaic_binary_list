@@ -1,5 +1,5 @@
 # dynmaic_binary_row
-A brand new data structure performs at least 40% faster than a skiplist in terms of insertion, deletion, and lookup
+A brand new data structure DYN_BINARY_LIST can performs at least 40% faster than a skiplist in terms of insertion, deletion, and lookup
 # To validate the result:
 
 [root@localhost AIID_POWER]# ls -ltr
