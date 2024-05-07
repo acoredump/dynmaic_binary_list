@@ -1,7 +1,6 @@
 # dynmaic_binary_row
 A brand new data structure performs at least 40% faster than a skiplist in terms of insertion, deletion, and lookup
 # To validate the result:
-
 [root@localhost AIID_POWER]# ls -ltr
 total 140
 -rw-r--r--. 1 root root   418 Apr 24 05:25 local_history.patch
@@ -22,6 +21,4 @@ drwxr-xr-x. 5 root root  4096 May  7 05:48 CMakeFiles
 BinaryList Insert 7000000 Nums and Search&Delete 1910000 Nums cost:20536
 [root@localhost AIID_POWER]# ./phaeton_skip_list
 SkipList Insert 7000000 Nums and Search&Delete 1910000 Nums cost:30148
-[root@localhost AIID_POWER]# 
-[root@localhost AIID_POWER]# 
-[root@localhost AIID_POWER]#
+
