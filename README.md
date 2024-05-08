@@ -1,4 +1,4 @@
-# dynmaic_binary_row
+# dynmaic_binary_list
 A brand new data structure DYN_BINARY_LIST can performs at least 40% faster than a skiplist in terms of insertion, deletion, and lookup
 # To validate the result:
 
