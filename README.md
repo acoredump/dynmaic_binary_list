@@ -43,3 +43,4 @@ BinaryList Insert 7000000 Nums and Search&Delete 1910000 Nums cost:20536
 SkipList Insert 7000000 Nums and Search&Delete 1910000 Nums cost:30148
 
 
+my greate serach algorithm ..... haha
